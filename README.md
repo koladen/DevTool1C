@@ -208,5 +208,5 @@ project/
     e:\DATA1C\BASE\src\cf\Documents\Сборка\Ext\ObjectModule.bsl
 
 ## ВАЖНО
-- за основу взят проект https://github.com/yellow-hammer/1c-dev-tools
+- за основу взят проект https://github.com/yellow-hammer/vscode-1c-platform-tools
 - отладка протестирована для базы в файловом варианте на платформе 8.3.27
